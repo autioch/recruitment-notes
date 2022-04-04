@@ -5,7 +5,6 @@ Loose recruitment notes
 - target (inustry or specific company)
 
 
-
 ## CV update
 - use proper template
 - single page only
@@ -21,6 +20,7 @@ Loose recruitment notes
 - skills
 - languages
 - hobbies
+- linkedin, github, other pages that contain a display of your skills/work
 
 #### Optionally include (depending on the industry):
 - address
@@ -52,6 +52,9 @@ Loose recruitment notes
 - position
 - company
 - short description, maybe in bullet points?
+- list everything related to the target, if not enough, pick related things from other items
+- should be continuous
+- if needed, list any freelance work, with proofs if possible
 
 ### Education
 - most recent on top
@@ -60,6 +63,7 @@ Loose recruitment notes
 - result
 - no description except for exceptional feats or achievments
 - only list items when least 15 years old (no nursery please ;)
+- list everything related to the target, if not enough, pick related things from other items
 
 ### Skills
 - teamwork specific (soft skills are always welcome)
@@ -73,9 +77,12 @@ Loose recruitment notes
 - for English use A1-C2, see (https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)[CEFR]
 - for other languages, A1-C2 can be used as well unless specific and popular grading system is available for the language
 - list certifications
+- if you learned a language some time ago, feel free to write it as A1, optionally A2, based on how much you remember and can read/write/speak it
 
 ### Hobbies
-
+- "know me" section
+- items that you can talk about
+- can be used by a recruiter as a start of a talk
 
 
 ## What recruiters want to hear
