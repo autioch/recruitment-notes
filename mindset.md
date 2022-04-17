@@ -10,3 +10,7 @@ Before starting on the CV and preparation for the actual interview, you have to 
 6. What do you expect from the new job?
 
 Take a break. Let those questions sink in, sleep a day, come back to them tomorrow, day after tomorrow or whevener you're ready.
+
+- [Back to introduction](readme.md)
+- [Next to CV](cv.md)
+- [Skip to Interview](interview.md)

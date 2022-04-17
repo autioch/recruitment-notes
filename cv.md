@@ -81,3 +81,8 @@ Write down everything that might fit or you find interesting. Initially, this mi
 - "know me" section
 - items that you can talk about
 - can be used by a recruiter as a start of a talk
+
+
+- [Back to introduction](readme.md)
+- [Back to mindset](mindset.md)
+- [Skip to Interview](interview.md)

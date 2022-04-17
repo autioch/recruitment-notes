@@ -11,3 +11,8 @@
 - planning to stay a longer
 - need a stable work, stability
 - do not cause problems
+
+
+- [Back to introduction](readme.md)
+- [Back to mindset](mindset.md)
+- [Back to Interview](interview.md)
